@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>trafalgar</title>
+
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <h1 class="visually-hidden">trafalgar</h1>
+    <!--header-->
+    <header class="header container">
+      <a href="./index.html">
+        <img
+          src="./trafalgar.svg"
+          width="160"
+          height="41"
+          alt="saytning emblemasi"
+      /></a>
+
+      <nav class="nav-1">
+        <ul class="nav-2">
+          <li class="nav-3"><a class="nav-4" active href="1">toshkent</a></li>
+          <li class="nav-3"><a class="nav-4" href="2">samarqand</a></li>
+          <li class="nav-3"><a class="nav-4" href="3">buxoro</a></li>
+          <li class="nav-3"><a class="nav-4" href="4">navoiy</a></li>
+          <li class="nav-3"><a class="nav-4" href="5">surxondaryo</a></li>
+        </ul>
+      </nav>
+    </header>
+    <!--/header-->
+    <main>
+      <!--intro-->
+      <section class="intro container">
+        <div class="intro-left">
+          <h2 class="intro-title">virtual healthcare for you</h2>
+          <p class="intro-text">
+            ozbekiston respublikasi toshkent shahri, chilonzor tumani.najot
+            talim markazi
+          </p>
+          <a href="#" class="intro-link"> consult today </a>
+        </div>
+        <img src="./doctor.png" width="693" height="598" alt="doctor-img" />
+      </section>
+
+      <!--/intro-->
+
+      <!--service-->
+      <section class="service container">
+        <h3 class="service-title">Our servise</h3>
+        <hr class="service-hr" />
+        <p class="service-text">
+          We provide to you the best choiches for you. Adjust it to your health
+          needs and make sure your undergo treatment with our highly qualified
+          doctors you can consult with us which type of service is suitable for
+          your health
+        </p>
+
+        <ul class="service-list">
+          <li class="service-item">
+            <img class="service-img" src="./lupa.svg" alt="lupa" width="92" height="90" />
+          </li>
+          <h4 class="service-item-title">Search doctor</h4>
+          <p class="service-item-text">
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+        
+
+
+        <ul>
+          <li>
+            <img src="./Frame (1).png" alt="lupa" width="92" height="90" />
+          </li>
+          <h4>Search doctor</h4>
+          <p>
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+
+
+        <ul>
+          <li>
+            <img src="./Frame.png" alt="lupa" width="92" height="90" />
+          </li>
+          <h4>Search doctor</h4>
+          <p>
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+
+
+
+        <ul>
+          <li>
+            <img src="./Group.png" alt="lupa" width="92" height="90" />
+          </li>
+          <h4>Search doctor</h4>
+          <p>
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+
+
+
+        <ul>
+          <li>
+            <img src="./Group (1).png" alt="lupa" width="92" height="90" />
+          </li>
+          <h4>Search doctor</h4>
+          <p>
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+
+
+
+
+        <ul>
+          <li>
+            <img src="./Frame (1).png" alt="lupa" width="92" height="90" />
+          </li>
+          <h4>Search doctor</h4>
+          <p>
+            Choose your doctor from thousands of specialist, general, and
+            trusted hospitals
+          </p>
+        </ul>
+
+      </section>
+
+      <!--/service-->
+    </main>
+  </body>
+</html>
